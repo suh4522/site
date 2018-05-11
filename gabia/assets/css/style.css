@@ -266,21 +266,21 @@ position: absolute; right: 0; top: 1px; }
 #sub-infor {height: 462px; background-color: #fff; }
 
 /* infor */
-.sub-infor { padding: 70px 0; text-align: center;}
-.sub-infor h3 {font-size: 40px; padding-bottom: 20px; font-weight: 300;}
-.sub-infor .sub-view {font-size: 16px; display: inline-block; margin-top: 10px;  border: 1px solid #333;background-color: #fff; padding: 12px 42px; transition: all 0.3s ease;}
-.sub-infor .sub-view:hover {background-color: #000; color: #fff;}
-.sub-infor .sub-infor-box {overflow: hidden; padding: 45px 210px 0 210px;}
-.sub-infor .sub-infor-box .sub-infor-box1 {float: left; width: 50%; box-sizing: border-box;overflow: hidden;}
-.sub-infor .sub-infor-box .sub-infor-box2 {float: left; width: 50%; padding-left: 50px; box-sizing: border-box;overflow: hidden;}
-.sub-infor .sub-infor-box .sub-infor-box1 h4 {float: left;padding-top: 20px; text-align: center; width: 110px; height: 90px;color: #fff; background: #1d7abd; border-radius: 50%; font-size: 16px;}
-.sub-infor .sub-infor-box .sub-infor-box1 ul {float: left;}
-.sub-infor .sub-infor-box .sub-infor-box1 li em { font-size: 16px; color: #333; width: 170px; }
-.sub-infor .sub-infor-box .sub-infor-box1 li strong {font-size: 16px; color: #0081c8;}
-.sub-infor .sub-infor-box .sub-infor-box2 h4 { float: left;text-align: center;padding-top: 20px; width: 110px; height: 110px;color: #fff; background: #1d7abd; border-radius: 50%;  font-size: 16px;}
-.sub-infor .sub-infor-box .sub-infor-box2 ul {float: left;}
-.sub-infor .sub-infor-box .sub-infor-box2 li em { font-size: 16px; color: #333; width: 170px;}
-.sub-infor .sub-infor-box .sub-infor-box2 li strong {font-size: 16px; color: #0081c8;}
+.infor2 { padding: 70px 0; text-align: center;}
+.infor2 h3 {font-size: 40px; padding-bottom: 20px; font-weight: 300;}
+.infor2 .sub-view {font-size: 16px; display: inline-block; margin-top: 10px;  border: 1px solid #333;background-color: #fff; padding: 12px 42px; transition: all 0.3s ease;}
+.infor2 .sub-view:hover {background-color: #000; color: #fff;}
+.infor2 .sub-infor-box {overflow: hidden; padding: 45px 210px 0 210px;}
+.infor2 .sub-infor-box .sub-infor-box1 {float: left; width: 50%; box-sizing: border-box;overflow: hidden;}
+.infor2 .sub-infor-box .sub-infor-box2 {float: left; width: 50%; padding-left: 50px; box-sizing: border-box;overflow: hidden;}
+.infor2 .sub-infor-box .sub-infor-box1 h4 {float: left;padding-top: 20px; text-align: center; width: 110px; height: 90px;color: #fff; background: #1d7abd; border-radius: 50%; font-size: 16px;}
+.infor2 .sub-infor-box .sub-infor-box1 ul {float: left;}
+.infor2 .sub-infor-box .sub-infor-box1 li em { font-size: 16px; color: #333; width: 170px; }
+.infor2 .sub-infor-box .sub-infor-box1 li strong {font-size: 16px; color: #0081c8;}
+.infor2 .sub-infor-box .sub-infor-box2 h4 { float: left;text-align: center;padding-top: 20px; width: 110px; height: 110px;color: #fff; background: #1d7abd; border-radius: 50%;  font-size: 16px;}
+.infor2 .sub-infor-box .sub-infor-box2 ul {float: left;}
+.infor2 .sub-infor-box .sub-infor-box2 li em { font-size: 16px; color: #333; width: 170px;}
+.infor2 .sub-infor-box .sub-infor-box2 li strong {font-size: 16px; color: #0081c8;}
 
 /*
 .sub-infor .sub-infor-box1 span.sub-title1 { display: table-cell; text-align: center; width: 110px; height: 110px;color: #fff; background: #1d7abd; border-radius: 50%; vertical-align: middle; font-size: 16px;}
